@@ -6,4 +6,5 @@ A Machine Learning model is as good as its data. During pre-processing, ML Engin
 
 ## Solution
 
-My method rates feature importance based on taking various permutations of the overall features.
+My method automates the process of finding the best possible features to get a good accuracy. It uses forward propagation and backward elimination algorithms to find the most optimized subset of features. These features are then given to the ML model for training. 
+
