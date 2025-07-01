@@ -15,6 +15,6 @@ My method automates the process of finding the best possible features to get a g
 3. Reduced feature footprint by 70%+ across multiple scenarios, significantly improving model inference latency and stability while maintaining cross-validated generalization performance.
 4. Delivered a modular, test-traceable ML evaluation pipeline with automated cross-validation, performance logging, and iterative feature relevance tracking — enabling explainability and reproducibility.
    
-## Output (Backward Propagation)
+## Output 
 
 <img width="1061" alt="image" src="https://github.com/user-attachments/assets/786368c4-663e-44a6-851c-b53810b334d5" />
